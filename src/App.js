@@ -26,8 +26,6 @@ function App() {
     // for some reason the setrange state does not update renderer. 
     // When I have added test state, and replaced one of the input values I was able to update both values.
     // To debug, for now leaving this as it is.
-
-    // same applies to the sideeffect in the sorting component, so I hooked this with the test state as well.
     // Perhaps I'm just tired...
 
     // Okay, so Objects must have a specific item defined in the use effect to catch the change.
